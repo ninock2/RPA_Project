@@ -1,5 +1,5 @@
 # RPA_Project
-
+University project in developing applications
 In RPA folder you can find the project
 
 NOTE:
